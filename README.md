@@ -1,3 +1,5 @@
 # TempNameMLProject
 
-This is a readme for a machine learning project. Will update the description. 
+This is a readme for a machine learning project.
+
+We pull Kaggle's dataset on "YouTubers' Popularity" (see https://www.kaggle.com/balaka18/youtubers-popularity-dataset). 
